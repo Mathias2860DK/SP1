@@ -1,2 +1,2 @@
 # SP1
-Dette er en opgave, hvor vi har videre bygget på et spil. Bla. har vi indført en spiller 2, som kan styres. Og fjenderne følger den spiller, som de er tættest på og det modsatte gælder for maden 
+Dette er en opgave, hvor vi har videre bygget på et spil. Bla. har vi indført en spiller 2, som kan styres. Og fjenderne følger den spiller, som de er tættest på. For maden gælder det om at være så langt væk fra spillerne som muligt. 2 ud af 3 af både fjernders og madens træk får dem tættere på på deres mål (komme tættere på spillerne (fjenderne) eller kommere længere væk fra spillerne (maden)).
